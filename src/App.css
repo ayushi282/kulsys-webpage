@@ -1,38 +1,230 @@
-.App {
-  text-align: center;
+.imgnavbar{
+  width: 210.526px;
+height: 64px;
+
+background:  lightgray 50% / cover no-repeat;
+top: 12px;
+left : 219px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar{
+  background: #040E56;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.red{
+  color: #FD2C60;
+font-family: Inter;
+font-size: 35px;
+font-style: normal;
+font-weight: 500;
+text-transform: capitalize;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.blue{
+  color: #040E56;
+  font-family: Inter;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+    text-transform: capitalize;
 }
 
-.App-link {
-  color: #61dafb;
+.para{
+  line-height: 31px;
+  width: 443px;
+height: 222px;
+top: 162px;
+    left: 130px;
+position: absolute;
+display: inline-block;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.paar1{
+  position: absolute;
+  width: 443px;
+height: 96px;
+top: 280px;
+    left: 130px;
+  color: #000;
+font-family: Inter;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px; /* 177.778% */
+}
+.cal{
+  border-radius: 20px;
+background: #FFF;
+box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.06);
+width: 270px;
+height: 376px;
+flex-shrink: 0;
+top: 224px;
+    left: 769px;
+border-radius: 20px;
+position: absolute;
+}
+.cal1{
+  position: absolute;
+  width: 270px;
+  height: 100px;
+flex-shrink: 0;
+border-radius: 20px 20px 0px 0px;
+opacity: 0.05;
+background: #040E56;
+}
+.book{
+  position: absolute;
+  left: 18px;
+  color: #040E56;
+  font-family: Inter;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 40px;
+  text-transform: capitalize;
+}
+.name{
+  position: absolute;
+  width: 97px;
+  height: 16px;
+  top: 38px;
+  left: 18px;
+  border-radius: 3px;
+  border: 7px;
+font-family: Inter;
+    font-size: 7px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.email{
+  position: absolute;
+  width: 97px;
+  height: 16px;
+  top: 38px;
+  left: 124px;
+  border-radius: 3px;
+  border: 7px;
+font-family: Inter;
+    font-size: 7px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.cross{
+  top: 16px;
+    left: 247px;
+  position: absolute;
+  width: 3%;
+}
+.submit{
+  border: #FFF;
+  left: 18px;
+  top:310px ;
+  position: absolute;
+  border-radius: 10px;
+background: #FD2B60;
+width: 235px;
+height: 38px;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 166.667% */
+text-transform: capitalize;
+}
+.free{
+  top: 366px;
+  left: 130px;
+position: absolute;
+display: inline-block;
+  border-radius: 5px;
+background: #040E56;
+  border: #FFF;
+  color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 166.667% */
+text-transform: capitalize;
+}
+.box1{
+  position: absolute;
+    width: 100px;
+    height: 198px;
+    top: 380px;
+    left: 60px;
+    border: 1px;
+    fill: rgba(255, 255, 255, 0.80);
+    stroke-width: 1px;
+    stroke: rgba(0, 0, 0, 0.10);
+    filter: drop-shadow(0px 4px 94px rgba(0, 0, 0, 0.15));
+}
+.box2{
+  position: absolute;
+    width: 100px;
+    height: 198px;
+    top: 380px;
+    left: 200px;
+    border: 1px;
+    fill: rgba(255, 255, 255, 0.80);
+    stroke-width: 1px;
+    stroke: rgba(0, 0, 0, 0.10);
+    filter: drop-shadow(0px 4px 94px rgba(0, 0, 0, 0.15));
+}
+.box3{
+  position: absolute;
+    width: 100px;
+    height: 298px;
+    top: 380px;
+    left: 341px;
+    border: 1px;
+    fill: rgba(255, 255, 255, 0.80);
+    stroke-width: 1px;
+    stroke: rgba(0, 0, 0, 0.10);
+    filter: drop-shadow(0px 4px 94px rgba(0, 0, 0, 0.15));
+}
+.expert{
+  width: 200px;
+  top: 59px;
+  position: absolute;
+  left: 80px;
+  color: #040E56;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+}
+.tap{
+  color: #4A4A4A;
+  width: 100px;
+  top: 79px;
+  position: absolute;
+  left: 80px;
+    font-family: Inter;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 500;
+}
+.one{
+  top: 47px;
+  position: absolute;
+  left: 177px;
+  color: rgba(4, 14, 86, 0.05);
+  text-align: right;
+  font-family: Inter;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+}
+.back{
+  background: lightgray 50% / cover no-repeat;
+  
 }
