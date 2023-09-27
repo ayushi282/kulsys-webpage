@@ -97,9 +97,119 @@ function App() {
    </div>
     </div>
     <div>
-      
+      <div className='why'>
+      Why Choose Cloud Transformation?
+      </div>
+      <div className='design'></div>
+      <div className='desgin2'></div>
+      <img className='photo' src='/images/rectangle-382.png'></img>
+      <div className='stream'>
+      <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/group.png'></img>
+        <div className='line'> Streamlined Operations for Growth</div>
+      </div>
+      <div className='stream1'>
+      <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/group1.png'></img>
+        <div className='line'> Cost Efficiency and Resource Optimization</div>
+      </div>
+      <div className='stream2'>
+      <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/group.png'></img>
+        <div className='line'> Scalability Unleashed</div>
+      </div>
+      <div className='stream3'>
+      <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/group.png'></img>
+        <div className='line'> Enhanced Data Security</div>
+      </div>
+      <div className='stream4'>
+      <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/group.png'></img>
+        <div className='line'> Enhanced Data Security</div>
+      </div>
     </div>
-    </div>
+       </div>
   );
 }
 

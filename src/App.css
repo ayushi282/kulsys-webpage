@@ -52,16 +52,15 @@ font-weight: 400;
 line-height: 21px; /* 177.778% */
 }
 .cal{
-  border-radius: 20px;
-background: #FFF;
-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.06);
-width: 270px;
-height: 376px;
-flex-shrink: 0;
-top: 224px;
-    left: 769px;
-border-radius: 20px;
-position: absolute;
+  background: #FFF;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.06);
+    width: 270px;
+    height: 376px;
+    flex-shrink: 0;
+    top: 206px;
+    left: 636px;
+    border-radius: 20px;
+    position: absolute;
 }
 .cal1{
   position: absolute;
@@ -227,4 +226,117 @@ text-transform: capitalize;
 .back{
   background: lightgray 50% / cover no-repeat;
   
+}
+.why{
+  color: #040E56;
+  text-align: center;
+  font-family: Inter;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 54px;
+  text-transform: capitalize;
+  top: 632px;
+  left: 299px;
+  position: absolute
+}
+.design{
+  position: absolute;
+  width: 313px;
+    height: 311px;
+transform: rotate(-140.403deg);
+flex-shrink: 0;
+border-radius: 40px;
+background: #EAEDFF;
+top: 759px;
+    left: 121px;
+border-radius: 40px;
+angle: -140.4 deg;
+
+}
+.desgin2{
+  position: absolute;
+  width: 71px;
+  height: 71px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #040E56;
+  top: 716px;
+  left: 488px;
+  border-radius: 8px;
+}
+.photo{
+  position: absolute;
+    width: 413px;
+    height: 411px;
+    top: 694px;
+    left: 171px;
+    border-radius: 40px;
+}
+.stream{
+  position: absolute;
+top: 694px;
+left: 596px;
+width: 700px;
+height: 75px;
+flex-shrink: 0;
+fill: #FFF;
+filter: drop-shadow(0px 0px 34px rgba(0, 0, 0, 0.07));
+}
+.line{
+  position: absolute;
+  top: 56px;
+  left: 115px;
+width: 700px;
+color: #252525;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 150% */
+}
+.arow{
+  position: absolute;
+  top: 56px;
+  left: 51px;
+}
+.stream1{
+  position: absolute;
+top: 794px;
+left: 596px;
+width: 700px;
+height: 75px;
+flex-shrink: 0;
+fill: #FFF;
+filter: drop-shadow(0px 0px 34px rgba(0, 0, 0, 0.07));
+}
+.stream2{
+  position: absolute;
+  top: 894px;
+  left: 596px;
+  width: 700px;
+  height: 75px;
+  flex-shrink: 0;
+  fill: #FFF;
+  filter: drop-shadow(0px 0px 34px rgba(0, 0, 0, 0.07));
+}
+.stream3{
+  position: absolute;
+  top: 994px;
+  left: 596px;
+  width: 700px;
+  height: 75px;
+  flex-shrink: 0;
+  fill: #FFF;
+  filter: drop-shadow(0px 0px 34px rgba(0, 0, 0, 0.07));
+}
+.stream4{
+  position: absolute;
+  top: 994px;
+  left: 596px;
+  width: 700px;
+  height: 75px;
+  flex-shrink: 0;
+  fill: #FFF;
+  filter: drop-shadow(0px 0px 34px rgba(0, 0, 0, 0.07));
 }
