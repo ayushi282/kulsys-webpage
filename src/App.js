@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   return (
+    <div className='phone'>
     <div>
     <div className='back'>
    <nav className='navbar'>
@@ -163,7 +164,7 @@ function App() {
     </filter>
   </defs>
 </svg>
-<img className='arow' src='/images/group.png'></img>
+<img className='arow' src='/images/frameiu.png'></img>
         <div className='line'> Scalability Unleashed</div>
       </div>
       <div className='stream3'>
@@ -184,7 +185,7 @@ function App() {
     </filter>
   </defs>
 </svg>
-<img className='arow' src='/images/group.png'></img>
+<img className='arow' src='/images/fram.png'></img>
         <div className='line'> Enhanced Data Security</div>
       </div>
       <div className='stream4'>
@@ -205,10 +206,95 @@ function App() {
     </filter>
   </defs>
 </svg>
-<img className='arow' src='/images/group.png'></img>
+<img className='arow' src='/images/fram.png'></img>
         <div className='line'> Enhanced Data Security</div>
-      </div>
+      
+        </div>
+        <button className='talk1'>Talk to our Tech Experts</button>
     </div>
+    <div>
+      <div className='bene'>How can your company benefit from these services ?</div>
+   <div className='stream5'>
+   <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/fra0me.png'></img>
+   <div className='line'>Tailored Strategy, Tailored Success</div>
+    
+   </div>
+   <div className='stream6'>
+   <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/fe.png'></img>
+   <div className='line'>Future-Proof Your Business</div>
+    
+   </div>
+   <div className='stream7'>
+   <svg xmlns="http://www.w3.org/2000/svg" width="768" height="143" viewBox="0 0 768 143" fill="none">
+  <g filter="url(#filter0_d_35_441)">
+    <path d="M34 44C34 38.4772 38.4772 34 44 34H724C729.523 34 734 38.4772 734 44V99C734 104.523 729.523 109 724 109H44C38.4771 109 34 104.523 34 99V44Z" fill="white"/>
+  </g>
+  <defs>
+    <filter id="filter0_d_35_441" x="0" y="0" width="568" height="103" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="17"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.07 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_35_441"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_35_441" result="shape"/>
+    </filter>
+  </defs>
+</svg>
+<img className='arow' src='/images/fram0o0oe.png'></img>
+   <div className='line'>Expert Support, Always Available</div>
+    
+   </div>
+   <button className='talk'>Talk to our Tech Experts</button>
+   <div className='design3'></div>
+      <div className='desgin4'></div>
+      <img className='phopto' src='/images/rectanglpe-382.png'></img>
+    </div>
+    <div className='last'>
+    <img className='rec' src='/images/rectangleojp386.png'>
+  </img>
+<div className='em'>Embark on Your Cloud Journey</div>
+<div className='re'>Realize the Power of Cloud Transformation Elevate your business to new heights. Experience streamlined operations, optimized costs, and unmatched scalability. Join the ranks of successful small and mid-size companies embracing the future.</div>
+<button className='tr'>Request a Consultation Today!</button>
+    <img className='triangle' src='/images/rectangle-388.svg'></img>
+    </div>
+    
+       </div>
        </div>
   );
 }
